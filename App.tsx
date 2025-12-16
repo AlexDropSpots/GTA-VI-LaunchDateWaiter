@@ -26,11 +26,6 @@ function App() {
           <>
             {/* Header */}
             <header className="mb-12 text-center space-y-4 animate-in fade-in duration-700">
-                <div className="inline-flex items-center justify-center space-x-2 bg-pink-600/20 border border-pink-500/50 px-4 py-1.5 rounded-full mb-4">
-                    <span className="animate-pulse w-2 h-2 bg-pink-500 rounded-full"></span>
-                    <span className="text-pink-200 text-xs font-bold tracking-widest uppercase">Hyping Up For Release</span>
-                </div>
-                
                 <h1 className="text-6xl md:text-8xl font-heading font-bold text-white tracking-tighter drop-shadow-2xl">
                   <span className="text-transparent bg-clip-text bg-gradient-to-b from-white to-gray-400">GTA</span>
                   <span className="text-pink-500 ml-4">VI</span>
